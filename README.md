@@ -22,6 +22,11 @@ detailed Mermaid diagrams -- component overview, the image and audio
 request-flow sequence diagrams, the offline index-build vs. query-time
 retrieval flow, and the optional API-comparison path.
 
+**Presentation:** [view the project presentation](https://docs.google.com/presentation/d/e/2PACX-1vTAQMmBYAS9bssLnU2nh52F1UCQrZ_k8jn7igQde3gTXPWJz6KZ6JF1dpdxv5LjajfhdV2JXCbYiVge/pub?start=false&loop=false&delayms=3000)
+-- deliverable walkthrough, the fever-detection bug found via live testing,
+honest limitations, real API-vs-local cost/quality data, and the final
+recommendation.
+
 ## Tech stack
 
 | Layer | Choice |
