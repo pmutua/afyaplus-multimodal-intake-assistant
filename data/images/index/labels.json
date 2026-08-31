@@ -1,0 +1,19 @@
+{
+  "01_rash_forearm_sparse.png": "rash",
+  "02_rash_forearm_dense.png": "rash",
+  "03_rash_torso.png": "rash",
+  "04_bruise_shin.png": "bruise",
+  "05_bruise_arm.png": "bruise",
+  "06_burn_hand.png": "burn",
+  "07_wound_laceration.png": "wound",
+  "08_wound_clean_cut.png": "wound",
+  "09_swelling_ankle.png": "swelling",
+  "10_insect_bite.png": "insect_bite",
+  "11_allergic_hives.png": "allergic_reaction",
+  "12_eye_redness.png": "eye_redness",
+  "13_mole_benign.png": "mole",
+  "14_mole_irregular.png": "mole_irregular",
+  "15_infection.png": "infection",
+  "16_foot_ulcer.png": "ulcer",
+  "17_skin_discoloration.png": "discoloration"
+}
